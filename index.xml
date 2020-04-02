@@ -1,0 +1,2580 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exoscale CLI on exo - the Exoscale command-line tool</title>
+    <link>https://exoscale.github.io/cli/</link>
+    <description>Recent content in Exoscale CLI on exo - the Exoscale command-line tool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Apr 2020 12:02:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://exoscale.github.io/cli/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>exo</title>
+      <link>https://exoscale.github.io/cli/exo/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo affinitygroup</title>
+      <link>https://exoscale.github.io/cli/exo_affinitygroup/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_affinitygroup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo affinitygroup create</title>
+      <link>https://exoscale.github.io/cli/exo_affinitygroup_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_affinitygroup_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo affinitygroup delete</title>
+      <link>https://exoscale.github.io/cli/exo_affinitygroup_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_affinitygroup_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo affinitygroup list</title>
+      <link>https://exoscale.github.io/cli/exo_affinitygroup_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_affinitygroup_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo affinitygroup show</title>
+      <link>https://exoscale.github.io/cli/exo_affinitygroup_show/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_affinitygroup_show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api</title>
+      <link>https://exoscale.github.io/cli/exo_api/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api account</title>
+      <link>https://exoscale.github.io/cli/exo_api_account/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_account/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api account list</title>
+      <link>https://exoscale.github.io/cli/exo_api_account_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_account_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api address</title>
+      <link>https://exoscale.github.io/cli/exo_api_address/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_address/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api address associate</title>
+      <link>https://exoscale.github.io/cli/exo_api_address_associate/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_address_associate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api address deleteReverseDNSFromAddress</title>
+      <link>https://exoscale.github.io/cli/exo_api_address_deletereversednsfromaddress/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_address_deletereversednsfromaddress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api address disassociate</title>
+      <link>https://exoscale.github.io/cli/exo_api_address_disassociate/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_address_disassociate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api address list</title>
+      <link>https://exoscale.github.io/cli/exo_api_address_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_address_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api address queryReverseDNSForAddress</title>
+      <link>https://exoscale.github.io/cli/exo_api_address_queryreversednsforaddress/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_address_queryreversednsforaddress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api address update</title>
+      <link>https://exoscale.github.io/cli/exo_api_address_update/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_address_update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api address updateReverseDNSForAddress</title>
+      <link>https://exoscale.github.io/cli/exo_api_address_updatereversednsforaddress/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_address_updatereversednsforaddress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api affinity-group</title>
+      <link>https://exoscale.github.io/cli/exo_api_affinity-group/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_affinity-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api affinity-group create</title>
+      <link>https://exoscale.github.io/cli/exo_api_affinity-group_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_affinity-group_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api affinity-group delete</title>
+      <link>https://exoscale.github.io/cli/exo_api_affinity-group_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_affinity-group_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api affinity-group list</title>
+      <link>https://exoscale.github.io/cli/exo_api_affinity-group_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_affinity-group_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api api</title>
+      <link>https://exoscale.github.io/cli/exo_api_api/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api api list</title>
+      <link>https://exoscale.github.io/cli/exo_api_api_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_api_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api api-key</title>
+      <link>https://exoscale.github.io/cli/exo_api_api-key/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_api-key/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api api-key create</title>
+      <link>https://exoscale.github.io/cli/exo_api_api-key_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_api-key_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api api-key get</title>
+      <link>https://exoscale.github.io/cli/exo_api_api-key_get/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_api-key_get/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api api-key list</title>
+      <link>https://exoscale.github.io/cli/exo_api_api-key_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_api-key_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api api-key revoke</title>
+      <link>https://exoscale.github.io/cli/exo_api_api-key_revoke/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_api-key_revoke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api async-job</title>
+      <link>https://exoscale.github.io/cli/exo_api_async-job/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_async-job/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api async-job listAsyncJobs</title>
+      <link>https://exoscale.github.io/cli/exo_api_async-job_listasyncjobs/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_async-job_listasyncjobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api async-job queryAsyncJobResult</title>
+      <link>https://exoscale.github.io/cli/exo_api_async-job_queryasyncjobresult/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_async-job_queryasyncjobresult/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api event</title>
+      <link>https://exoscale.github.io/cli/exo_api_event/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api event list</title>
+      <link>https://exoscale.github.io/cli/exo_api_event_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_event_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api event listType</title>
+      <link>https://exoscale.github.io/cli/exo_api_event_listtype/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_event_listtype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api instancepool</title>
+      <link>https://exoscale.github.io/cli/exo_api_instancepool/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_instancepool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api instancepool create</title>
+      <link>https://exoscale.github.io/cli/exo_api_instancepool_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_instancepool_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api instancepool destroy</title>
+      <link>https://exoscale.github.io/cli/exo_api_instancepool_destroy/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_instancepool_destroy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api instancepool get</title>
+      <link>https://exoscale.github.io/cli/exo_api_instancepool_get/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_instancepool_get/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api instancepool list</title>
+      <link>https://exoscale.github.io/cli/exo_api_instancepool_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_instancepool_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api instancepool scale</title>
+      <link>https://exoscale.github.io/cli/exo_api_instancepool_scale/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_instancepool_scale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api instancepool update</title>
+      <link>https://exoscale.github.io/cli/exo_api_instancepool_update/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_instancepool_update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api network</title>
+      <link>https://exoscale.github.io/cli/exo_api_network/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api network create</title>
+      <link>https://exoscale.github.io/cli/exo_api_network_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_network_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api network delete</title>
+      <link>https://exoscale.github.io/cli/exo_api_network_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_network_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api network list</title>
+      <link>https://exoscale.github.io/cli/exo_api_network_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_network_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api network update</title>
+      <link>https://exoscale.github.io/cli/exo_api_network_update/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_network_update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api nic</title>
+      <link>https://exoscale.github.io/cli/exo_api_nic/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_nic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api nic activateIp6</title>
+      <link>https://exoscale.github.io/cli/exo_api_nic_activateip6/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_nic_activateip6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api nic addIpToNic</title>
+      <link>https://exoscale.github.io/cli/exo_api_nic_addiptonic/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_nic_addiptonic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api nic list</title>
+      <link>https://exoscale.github.io/cli/exo_api_nic_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_nic_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api nic removeIpFromNic</title>
+      <link>https://exoscale.github.io/cli/exo_api_nic_removeipfromnic/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_nic_removeipfromnic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api offering</title>
+      <link>https://exoscale.github.io/cli/exo_api_offering/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_offering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api offering list</title>
+      <link>https://exoscale.github.io/cli/exo_api_offering_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_offering_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api offering listDetails</title>
+      <link>https://exoscale.github.io/cli/exo_api_offering_listdetails/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_offering_listdetails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api offering listLimits</title>
+      <link>https://exoscale.github.io/cli/exo_api_offering_listlimits/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_offering_listlimits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api security-group</title>
+      <link>https://exoscale.github.io/cli/exo_api_security-group/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_security-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api security-group authorizeEgress</title>
+      <link>https://exoscale.github.io/cli/exo_api_security-group_authorizeegress/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_security-group_authorizeegress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api security-group authorizeIngress</title>
+      <link>https://exoscale.github.io/cli/exo_api_security-group_authorizeingress/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_security-group_authorizeingress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api security-group create</title>
+      <link>https://exoscale.github.io/cli/exo_api_security-group_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_security-group_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api security-group delete</title>
+      <link>https://exoscale.github.io/cli/exo_api_security-group_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_security-group_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api security-group list</title>
+      <link>https://exoscale.github.io/cli/exo_api_security-group_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_security-group_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api security-group revokeEgress</title>
+      <link>https://exoscale.github.io/cli/exo_api_security-group_revokeegress/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_security-group_revokeegress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api security-group revokeIngress</title>
+      <link>https://exoscale.github.io/cli/exo_api_security-group_revokeingress/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_security-group_revokeingress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api snapshot</title>
+      <link>https://exoscale.github.io/cli/exo_api_snapshot/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_snapshot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api snapshot create</title>
+      <link>https://exoscale.github.io/cli/exo_api_snapshot_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_snapshot_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api snapshot delete</title>
+      <link>https://exoscale.github.io/cli/exo_api_snapshot_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_snapshot_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api snapshot list</title>
+      <link>https://exoscale.github.io/cli/exo_api_snapshot_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_snapshot_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api snapshot revert</title>
+      <link>https://exoscale.github.io/cli/exo_api_snapshot_revert/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_snapshot_revert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api ssh</title>
+      <link>https://exoscale.github.io/cli/exo_api_ssh/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_ssh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api ssh create</title>
+      <link>https://exoscale.github.io/cli/exo_api_ssh_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_ssh_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api ssh delete</title>
+      <link>https://exoscale.github.io/cli/exo_api_ssh_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_ssh_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api ssh list</title>
+      <link>https://exoscale.github.io/cli/exo_api_ssh_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_ssh_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api ssh register</title>
+      <link>https://exoscale.github.io/cli/exo_api_ssh_register/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_ssh_register/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api ssh reset</title>
+      <link>https://exoscale.github.io/cli/exo_api_ssh_reset/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_ssh_reset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api tag</title>
+      <link>https://exoscale.github.io/cli/exo_api_tag/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_tag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api tag create</title>
+      <link>https://exoscale.github.io/cli/exo_api_tag_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_tag_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api tag delete</title>
+      <link>https://exoscale.github.io/cli/exo_api_tag_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_tag_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api tag list</title>
+      <link>https://exoscale.github.io/cli/exo_api_tag_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_tag_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api template</title>
+      <link>https://exoscale.github.io/cli/exo_api_template/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_template/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api template list</title>
+      <link>https://exoscale.github.io/cli/exo_api_template_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_template_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api template listIsos</title>
+      <link>https://exoscale.github.io/cli/exo_api_template_listisos/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_template_listisos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api user</title>
+      <link>https://exoscale.github.io/cli/exo_api_user/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_user/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api user list</title>
+      <link>https://exoscale.github.io/cli/exo_api_user_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_user_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api user registerUserKeys</title>
+      <link>https://exoscale.github.io/cli/exo_api_user_registeruserkeys/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_user_registeruserkeys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm addNic</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_addnic/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_addnic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm attachIso</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_attachiso/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_attachiso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm changeService</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_changeservice/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_changeservice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm deleteReverseDNSFromVM</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_deletereversednsfromvm/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_deletereversednsfromvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm deploy</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_deploy/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_deploy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm destroy</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_destroy/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_destroy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm detachIso</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_detachiso/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_detachiso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm expunge</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_expunge/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_expunge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm getPassword</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_getpassword/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_getpassword/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm getUserData</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_getuserdata/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_getuserdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm list</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm queryReverseDNSForVM</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_queryreversednsforvm/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_queryreversednsforvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm reboot</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_reboot/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_reboot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm recover</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_recover/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_recover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm removeNic</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_removenic/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_removenic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm resetPassword</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_resetpassword/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_resetpassword/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm restore</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_restore/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_restore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm scale</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_scale/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_scale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm start</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_start/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_start/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm stop</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_stop/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_stop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm update</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_update/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm updateReverseDNSForVM</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_updatereversednsforvm/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_updatereversednsforvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm updateVMAffinityGroup</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_updatevmaffinitygroup/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_updatevmaffinitygroup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm updateVMNicIP</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm_updatevmnicip/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm_updatevmnicip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm-group</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm-group/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm-group create</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm-group_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm-group_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm-group delete</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm-group_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm-group_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm-group list</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm-group_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm-group_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api vm-group update</title>
+      <link>https://exoscale.github.io/cli/exo_api_vm-group_update/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_vm-group_update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api volume</title>
+      <link>https://exoscale.github.io/cli/exo_api_volume/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_volume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api volume list</title>
+      <link>https://exoscale.github.io/cli/exo_api_volume_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_volume_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api volume resize</title>
+      <link>https://exoscale.github.io/cli/exo_api_volume_resize/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_volume_resize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api zone</title>
+      <link>https://exoscale.github.io/cli/exo_api_zone/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_zone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo api zone list</title>
+      <link>https://exoscale.github.io/cli/exo_api_zone_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_api_zone_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo config</title>
+      <link>https://exoscale.github.io/cli/exo_config/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_config/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo config add</title>
+      <link>https://exoscale.github.io/cli/exo_config_add/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_config_add/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo config delete</title>
+      <link>https://exoscale.github.io/cli/exo_config_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_config_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo config list</title>
+      <link>https://exoscale.github.io/cli/exo_config_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_config_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo config set</title>
+      <link>https://exoscale.github.io/cli/exo_config_set/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_config_set/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo config show</title>
+      <link>https://exoscale.github.io/cli/exo_config_show/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_config_show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns</title>
+      <link>https://exoscale.github.io/cli/exo_dns/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns add</title>
+      <link>https://exoscale.github.io/cli/exo_dns_add/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_add/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns add A</title>
+      <link>https://exoscale.github.io/cli/exo_dns_add_a/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_add_a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns add AAAA</title>
+      <link>https://exoscale.github.io/cli/exo_dns_add_aaaa/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_add_aaaa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns add ALIAS</title>
+      <link>https://exoscale.github.io/cli/exo_dns_add_alias/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_add_alias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns add CAA</title>
+      <link>https://exoscale.github.io/cli/exo_dns_add_caa/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_add_caa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns add CNAME</title>
+      <link>https://exoscale.github.io/cli/exo_dns_add_cname/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_add_cname/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns add HINFO</title>
+      <link>https://exoscale.github.io/cli/exo_dns_add_hinfo/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_add_hinfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns add MX</title>
+      <link>https://exoscale.github.io/cli/exo_dns_add_mx/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_add_mx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns add NAPTR</title>
+      <link>https://exoscale.github.io/cli/exo_dns_add_naptr/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_add_naptr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns add NS</title>
+      <link>https://exoscale.github.io/cli/exo_dns_add_ns/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_add_ns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns add POOL</title>
+      <link>https://exoscale.github.io/cli/exo_dns_add_pool/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_add_pool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns add SRV</title>
+      <link>https://exoscale.github.io/cli/exo_dns_add_srv/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_add_srv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns add SSHFP</title>
+      <link>https://exoscale.github.io/cli/exo_dns_add_sshfp/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_add_sshfp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns add TXT</title>
+      <link>https://exoscale.github.io/cli/exo_dns_add_txt/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_add_txt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns add URL</title>
+      <link>https://exoscale.github.io/cli/exo_dns_add_url/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_add_url/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns create</title>
+      <link>https://exoscale.github.io/cli/exo_dns_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns delete</title>
+      <link>https://exoscale.github.io/cli/exo_dns_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns list</title>
+      <link>https://exoscale.github.io/cli/exo_dns_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns remove</title>
+      <link>https://exoscale.github.io/cli/exo_dns_remove/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_remove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns show</title>
+      <link>https://exoscale.github.io/cli/exo_dns_show/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns update</title>
+      <link>https://exoscale.github.io/cli/exo_dns_update/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns update A</title>
+      <link>https://exoscale.github.io/cli/exo_dns_update_a/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_update_a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns update AAAA</title>
+      <link>https://exoscale.github.io/cli/exo_dns_update_aaaa/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_update_aaaa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns update ALIAS</title>
+      <link>https://exoscale.github.io/cli/exo_dns_update_alias/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_update_alias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns update CNAME</title>
+      <link>https://exoscale.github.io/cli/exo_dns_update_cname/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_update_cname/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns update HINFO</title>
+      <link>https://exoscale.github.io/cli/exo_dns_update_hinfo/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_update_hinfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns update MX</title>
+      <link>https://exoscale.github.io/cli/exo_dns_update_mx/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_update_mx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns update NAPTR</title>
+      <link>https://exoscale.github.io/cli/exo_dns_update_naptr/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_update_naptr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns update NS</title>
+      <link>https://exoscale.github.io/cli/exo_dns_update_ns/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_update_ns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns update POOL</title>
+      <link>https://exoscale.github.io/cli/exo_dns_update_pool/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_update_pool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns update SPF</title>
+      <link>https://exoscale.github.io/cli/exo_dns_update_spf/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_update_spf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns update SRV</title>
+      <link>https://exoscale.github.io/cli/exo_dns_update_srv/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_update_srv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns update SSHFP</title>
+      <link>https://exoscale.github.io/cli/exo_dns_update_sshfp/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_update_sshfp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns update TXT</title>
+      <link>https://exoscale.github.io/cli/exo_dns_update_txt/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_update_txt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo dns update URL</title>
+      <link>https://exoscale.github.io/cli/exo_dns_update_url/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_dns_update_url/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo eip</title>
+      <link>https://exoscale.github.io/cli/exo_eip/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_eip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo eip associate</title>
+      <link>https://exoscale.github.io/cli/exo_eip_associate/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_eip_associate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo eip create</title>
+      <link>https://exoscale.github.io/cli/exo_eip_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_eip_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo eip delete</title>
+      <link>https://exoscale.github.io/cli/exo_eip_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_eip_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo eip dissociate</title>
+      <link>https://exoscale.github.io/cli/exo_eip_dissociate/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_eip_dissociate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo eip list</title>
+      <link>https://exoscale.github.io/cli/exo_eip_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_eip_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo eip show</title>
+      <link>https://exoscale.github.io/cli/exo_eip_show/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_eip_show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo eip update</title>
+      <link>https://exoscale.github.io/cli/exo_eip_update/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_eip_update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo firewall</title>
+      <link>https://exoscale.github.io/cli/exo_firewall/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_firewall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo firewall add</title>
+      <link>https://exoscale.github.io/cli/exo_firewall_add/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_firewall_add/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo firewall create</title>
+      <link>https://exoscale.github.io/cli/exo_firewall_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_firewall_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo firewall delete</title>
+      <link>https://exoscale.github.io/cli/exo_firewall_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_firewall_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo firewall list</title>
+      <link>https://exoscale.github.io/cli/exo_firewall_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_firewall_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo firewall remove</title>
+      <link>https://exoscale.github.io/cli/exo_firewall_remove/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_firewall_remove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo firewall show</title>
+      <link>https://exoscale.github.io/cli/exo_firewall_show/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_firewall_show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo iam</title>
+      <link>https://exoscale.github.io/cli/exo_iam/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_iam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo iam apikey</title>
+      <link>https://exoscale.github.io/cli/exo_iam_apikey/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_iam_apikey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo iam apikey create</title>
+      <link>https://exoscale.github.io/cli/exo_iam_apikey_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_iam_apikey_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo iam apikey list</title>
+      <link>https://exoscale.github.io/cli/exo_iam_apikey_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_iam_apikey_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo iam apikey operations</title>
+      <link>https://exoscale.github.io/cli/exo_iam_apikey_operations/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_iam_apikey_operations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo iam apikey revoke</title>
+      <link>https://exoscale.github.io/cli/exo_iam_apikey_revoke/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_iam_apikey_revoke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo iam apikey show</title>
+      <link>https://exoscale.github.io/cli/exo_iam_apikey_show/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_iam_apikey_show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo instancepool</title>
+      <link>https://exoscale.github.io/cli/exo_instancepool/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_instancepool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo instancepool create</title>
+      <link>https://exoscale.github.io/cli/exo_instancepool_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_instancepool_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo instancepool delete</title>
+      <link>https://exoscale.github.io/cli/exo_instancepool_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_instancepool_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo instancepool list</title>
+      <link>https://exoscale.github.io/cli/exo_instancepool_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_instancepool_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo instancepool show</title>
+      <link>https://exoscale.github.io/cli/exo_instancepool_show/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_instancepool_show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo instancepool update</title>
+      <link>https://exoscale.github.io/cli/exo_instancepool_update/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_instancepool_update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo lab</title>
+      <link>https://exoscale.github.io/cli/exo_lab/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo lab kube</title>
+      <link>https://exoscale.github.io/cli/exo_lab_kube/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_lab_kube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo lab kube create</title>
+      <link>https://exoscale.github.io/cli/exo_lab_kube_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_lab_kube_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo lab kube delete</title>
+      <link>https://exoscale.github.io/cli/exo_lab_kube_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_lab_kube_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo lab kube env</title>
+      <link>https://exoscale.github.io/cli/exo_lab_kube_env/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_lab_kube_env/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo lab kube ip</title>
+      <link>https://exoscale.github.io/cli/exo_lab_kube_ip/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_lab_kube_ip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo lab kube list</title>
+      <link>https://exoscale.github.io/cli/exo_lab_kube_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_lab_kube_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo lab kube start</title>
+      <link>https://exoscale.github.io/cli/exo_lab_kube_start/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_lab_kube_start/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo lab kube stop</title>
+      <link>https://exoscale.github.io/cli/exo_lab_kube_stop/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_lab_kube_stop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo privnet</title>
+      <link>https://exoscale.github.io/cli/exo_privnet/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_privnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo privnet associate</title>
+      <link>https://exoscale.github.io/cli/exo_privnet_associate/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_privnet_associate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo privnet create</title>
+      <link>https://exoscale.github.io/cli/exo_privnet_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_privnet_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo privnet delete</title>
+      <link>https://exoscale.github.io/cli/exo_privnet_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_privnet_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo privnet dissociate</title>
+      <link>https://exoscale.github.io/cli/exo_privnet_dissociate/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_privnet_dissociate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo privnet list</title>
+      <link>https://exoscale.github.io/cli/exo_privnet_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_privnet_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo privnet show</title>
+      <link>https://exoscale.github.io/cli/exo_privnet_show/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_privnet_show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo privnet update</title>
+      <link>https://exoscale.github.io/cli/exo_privnet_update/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_privnet_update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus create</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus delete</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus incident</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_incident/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_incident/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus incident add</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_incident_add/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_incident_add/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus incident list</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_incident_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_incident_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus incident remove</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_incident_remove/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_incident_remove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus incident show</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_incident_show/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_incident_show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus incident update</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_incident_update/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_incident_update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus list</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus maintenance</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_maintenance/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_maintenance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus maintenance add</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_maintenance_add/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_maintenance_add/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus maintenance list</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_maintenance_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_maintenance_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus maintenance remove</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_maintenance_remove/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_maintenance_remove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus maintenance show</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_maintenance_show/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_maintenance_show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus maintenance update</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_maintenance_update/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_maintenance_update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus service</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_service/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus service create</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_service_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_service_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus service delete</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_service_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_service_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus service list</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_service_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_service_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus service show</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_service_show/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_service_show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo runstatus show</title>
+      <link>https://exoscale.github.io/cli/exo_runstatus_show/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_runstatus_show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sos</title>
+      <link>https://exoscale.github.io/cli/exo_sos/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sos acl</title>
+      <link>https://exoscale.github.io/cli/exo_sos_acl/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sos_acl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sos acl add</title>
+      <link>https://exoscale.github.io/cli/exo_sos_acl_add/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sos_acl_add/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sos acl list</title>
+      <link>https://exoscale.github.io/cli/exo_sos_acl_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sos_acl_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sos acl remove</title>
+      <link>https://exoscale.github.io/cli/exo_sos_acl_remove/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sos_acl_remove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sos create</title>
+      <link>https://exoscale.github.io/cli/exo_sos_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sos_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sos delete</title>
+      <link>https://exoscale.github.io/cli/exo_sos_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sos_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sos download</title>
+      <link>https://exoscale.github.io/cli/exo_sos_download/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sos_download/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sos header</title>
+      <link>https://exoscale.github.io/cli/exo_sos_header/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sos_header/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sos header add</title>
+      <link>https://exoscale.github.io/cli/exo_sos_header_add/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sos_header_add/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sos header list</title>
+      <link>https://exoscale.github.io/cli/exo_sos_header_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sos_header_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sos header remove</title>
+      <link>https://exoscale.github.io/cli/exo_sos_header_remove/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sos_header_remove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sos list</title>
+      <link>https://exoscale.github.io/cli/exo_sos_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sos_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sos metadata</title>
+      <link>https://exoscale.github.io/cli/exo_sos_metadata/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sos_metadata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sos metadata add</title>
+      <link>https://exoscale.github.io/cli/exo_sos_metadata_add/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sos_metadata_add/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sos metadata list</title>
+      <link>https://exoscale.github.io/cli/exo_sos_metadata_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sos_metadata_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sos metadata remove</title>
+      <link>https://exoscale.github.io/cli/exo_sos_metadata_remove/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sos_metadata_remove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sos remove</title>
+      <link>https://exoscale.github.io/cli/exo_sos_remove/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sos_remove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sos show</title>
+      <link>https://exoscale.github.io/cli/exo_sos_show/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sos_show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sos upload</title>
+      <link>https://exoscale.github.io/cli/exo_sos_upload/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sos_upload/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo ssh</title>
+      <link>https://exoscale.github.io/cli/exo_ssh/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_ssh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sshkey</title>
+      <link>https://exoscale.github.io/cli/exo_sshkey/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sshkey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sshkey create</title>
+      <link>https://exoscale.github.io/cli/exo_sshkey_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sshkey_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sshkey delete</title>
+      <link>https://exoscale.github.io/cli/exo_sshkey_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sshkey_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sshkey list</title>
+      <link>https://exoscale.github.io/cli/exo_sshkey_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sshkey_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo sshkey upload</title>
+      <link>https://exoscale.github.io/cli/exo_sshkey_upload/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_sshkey_upload/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo status</title>
+      <link>https://exoscale.github.io/cli/exo_status/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_status/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo version</title>
+      <link>https://exoscale.github.io/cli/exo_version/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_version/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm</title>
+      <link>https://exoscale.github.io/cli/exo_vm/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm create</title>
+      <link>https://exoscale.github.io/cli/exo_vm_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm delete</title>
+      <link>https://exoscale.github.io/cli/exo_vm_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm firewall</title>
+      <link>https://exoscale.github.io/cli/exo_vm_firewall/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_firewall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm firewall add</title>
+      <link>https://exoscale.github.io/cli/exo_vm_firewall_add/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_firewall_add/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm firewall remove</title>
+      <link>https://exoscale.github.io/cli/exo_vm_firewall_remove/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_firewall_remove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm firewall set</title>
+      <link>https://exoscale.github.io/cli/exo_vm_firewall_set/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_firewall_set/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm list</title>
+      <link>https://exoscale.github.io/cli/exo_vm_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm reboot</title>
+      <link>https://exoscale.github.io/cli/exo_vm_reboot/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_reboot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm reset</title>
+      <link>https://exoscale.github.io/cli/exo_vm_reset/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_reset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm resize</title>
+      <link>https://exoscale.github.io/cli/exo_vm_resize/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_resize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm scale</title>
+      <link>https://exoscale.github.io/cli/exo_vm_scale/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_scale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm serviceoffering</title>
+      <link>https://exoscale.github.io/cli/exo_vm_serviceoffering/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_serviceoffering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm show</title>
+      <link>https://exoscale.github.io/cli/exo_vm_show/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm snapshot</title>
+      <link>https://exoscale.github.io/cli/exo_vm_snapshot/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_snapshot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm snapshot create</title>
+      <link>https://exoscale.github.io/cli/exo_vm_snapshot_create/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_snapshot_create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm snapshot delete</title>
+      <link>https://exoscale.github.io/cli/exo_vm_snapshot_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_snapshot_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm snapshot list</title>
+      <link>https://exoscale.github.io/cli/exo_vm_snapshot_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_snapshot_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm snapshot revert</title>
+      <link>https://exoscale.github.io/cli/exo_vm_snapshot_revert/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_snapshot_revert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm snapshot show</title>
+      <link>https://exoscale.github.io/cli/exo_vm_snapshot_show/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_snapshot_show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm start</title>
+      <link>https://exoscale.github.io/cli/exo_vm_start/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_start/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm stop</title>
+      <link>https://exoscale.github.io/cli/exo_vm_stop/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_stop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm template</title>
+      <link>https://exoscale.github.io/cli/exo_vm_template/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_template/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm template delete</title>
+      <link>https://exoscale.github.io/cli/exo_vm_template_delete/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_template_delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm template list</title>
+      <link>https://exoscale.github.io/cli/exo_vm_template_list/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_template_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm template register</title>
+      <link>https://exoscale.github.io/cli/exo_vm_template_register/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_template_register/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm template show</title>
+      <link>https://exoscale.github.io/cli/exo_vm_template_show/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_template_show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo vm updateip</title>
+      <link>https://exoscale.github.io/cli/exo_vm_updateip/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_vm_updateip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exo zone</title>
+      <link>https://exoscale.github.io/cli/exo_zone/</link>
+      <pubDate>Thu, 02 Apr 2020 12:02:25 +0000</pubDate>
+      
+      <guid>https://exoscale.github.io/cli/exo_zone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
